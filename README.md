@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Anastasia Tabunova 👋
+I'm a novice analyst. I love working with data and getting useful information from it. Basic education in computer science-economist. Additional - Data Analyst. 
+
+My skills: SQL, python, pandas, numpy, matplotlib, plotly, dash. A/B test, machine learning, cluster analysis and statistical analysis in an educational projects.
+
+I'm actively looking for a job. 📫 How to reach me: https://t.me/NastiTab
 
 <!--
 **NastiTab/NastiTab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
